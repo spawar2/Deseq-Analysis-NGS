@@ -1,4 +1,4 @@
-# Deseq-Analysis-NGS. December, 9, 2024.
+# Deseq-Analysis-NGS. Date created/updated: December, 9, 2024.
 [R: DESeq2].
 Yale University, School of Medicine, Department of Genetics, Yale Center for Genome Analysis (YCGA), Connecticut,  New Haven, United States of America (USA).
 https://campuspress.yale.edu/shrikantpawar/
